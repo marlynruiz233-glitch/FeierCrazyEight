@@ -1,5 +1,5 @@
 {
   "name": "Feier Crazy 8s",
-  "description": "A classic Crazy Eights card game with AI opponent, built with React and Tailwind CSS.",
+  "description": "A feature-complete, responsive Crazy Eights card game with AI opponents, multi-language support (7 countries), and a luxurious starry sky blue velvet theme.",
   "requestFramePermissions": []
 }
